@@ -1,0 +1,18 @@
+body{
+  background:#020617;
+  font-family:Arial;
+  color:white;
+  padding:20px;
+}
+
+ul{
+  list-style:none;
+  padding:0;
+}
+
+li{
+  background:#0f172a;
+  padding:12px;
+  margin-bottom:10px;
+  border-radius:8px;
+}
